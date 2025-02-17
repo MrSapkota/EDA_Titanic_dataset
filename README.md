@@ -5,16 +5,16 @@ This commit encompasses the Exploratory Data Analysis (EDA) and feature engineer
 
 Exploratory Data Analysis and applying logistic regression
 
-#!pip install pandas
-#pip install numpy
-#!pip install matplotlib
-#!pip install seaborn
-#!pip install sklearn
+!pip install pandas
+!pip install numpy
+!pip install matplotlib
+!pip install seaborn
+!pip install sklearn
 
-#import pandas as pd
-#import numpy as np
-#import matplotlib.pyplot as plt
-#import seaborn as sns
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
 
 df = pd.read_csv('/content/titanic_train.csv')
 
